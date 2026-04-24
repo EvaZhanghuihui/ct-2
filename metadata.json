@@ -1,0 +1,12 @@
+{
+  "name": "错题通",
+  "description": "AI全科错题打印机：支持拍照识别、知识点提取、智能生成举一反三题目及PDF导出打印。",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI Vision OCR",
+    "Educational Content Generation",
+    "PDF Export"
+  ]
+}
